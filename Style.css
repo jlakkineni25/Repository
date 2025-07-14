@@ -48,7 +48,6 @@ section {
   font-size: 1rem;
 }
 
-/* Cards used inside grids */
 .card {
   background-color: #1e293b;
   border-radius: 0.75rem;
@@ -200,7 +199,7 @@ nav {
 }
 
 .skill-card {
-  background: #1e293b;
+  background: #0f172a;
   border-radius: 0.5rem;
   padding: 1rem;
 }
@@ -332,3 +331,4 @@ a:link, a:visited {
   color: white;
   text-decoration: none;
 }
+
