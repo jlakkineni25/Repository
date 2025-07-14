@@ -8,7 +8,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #e5e7eb;
-  background-color: #0f172a; 
+  background-color: #0f172a; /* Deep dark navy */
 }
 
 section {
@@ -18,7 +18,7 @@ section {
 }
 
 .container {
-  background-color: #1e293b; 
+  background-color: #1e293b; /* Dark card bg */
   border-radius: 0.75rem;
   padding: 2rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -332,4 +332,3 @@ a:link, a:visited {
   color: white;
   text-decoration: none;
 }
-
